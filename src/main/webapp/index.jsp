@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>good day for all my FRIENDS</h2>
+<h2>EVERY DAY WAS GOOD DAY</h2>
 </body>
 </html>
